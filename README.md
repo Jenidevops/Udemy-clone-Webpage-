@@ -3,7 +3,9 @@ This project is a front-end Udemy homepage clone, crafted using only HTML and CS
 
 🔗 Live Demo: Click here to view the project
 
-[https://jenidevops.github.io/Udemy-clone-Webpage-/](url)
+[
+](https://github.com/Jenidevops/Udemy-clone-Webpage-/settings/pages#:~:text=https%3A//jenidevops.github.io/Udemy%2Dclone%2DWebpage%2D/)
+
 
 🌟 Features
 🧭 Modern and responsive navigation bar
