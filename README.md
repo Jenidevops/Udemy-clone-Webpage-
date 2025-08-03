@@ -1,12 +1,6 @@
  🎓 Udemy Clone – HTML & CSS Webpage
 This project is a front-end Udemy homepage clone, crafted using only HTML and CSS. It captures the look and feel of the real Udemy website, including a custom navbar, search bar, category filters, course cards, responsive layout, and sleek hover effects. It’s perfect for learning, showcasing front-end skills, or using as a base for further development.
 
-🔗 Live Demo: Click here to view the project
-
-[
-https://github.com/Jenidevops/Udemy-clone-Webpage-/settings/pages#:~:text=https%3A//jenidevops.github.io/Udemy%2Dclone%2DWebpage%2D/
-](url)
-
 🌟 Features
 🧭 Modern and responsive navigation bar
 
